@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+*.sqlite3
+.DS_Store
+*.swp
+myproject/myenv/lib/python3.11/site-packages/PIL/
+myproject/myenv/lib/python3.11/site-packages/django/
+myproject/myenv/lib/python3.11/site-packages/pip/
+myproject/myenv/lib/python3.11/site-packages/setuptools/
+myproject/myenv/lib/python3.11/site-packages/pkg_resources/
+myproject/myenv/lib/python3.11/site-packages/wheel/
+myproject/myenv/lib/python3.11/site-packages/extern/ex/.venv/
+myproject/myenv/lib/python3.11/site-packages/extern/ex/media/
